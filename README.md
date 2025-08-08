@@ -1,8 +1,8 @@
 # Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer (Condformer)
 This repository is for Condformer introduced in the following paper
 
-Yuanfei Huang and Hua Huang*, "Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer", arXiv preprint arXiv:2407.09094, 2024. (**Accepted by IJCV**)
-[paper](https://arxiv.org/abs/2407.09094)
+Huang, Y., Huang, H. Beyond Image Prior: Embedding Noise Prior into Latent Space of Conditional Denoising Transformer. Int J Comput Vis (2025). (**Accepted by IJCV**)
+[arXiv](https://arxiv.org/abs/2407.09094) [Published](https://link.springer.com/article/10.1007/s11263-025-02553-w)
 ## Dependenices
 * python 3.10
 * pytorch == 2.0.0
